@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "/" 
+title: Leah Albrow
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -11,31 +11,22 @@ taxonomies:
     tag: tags
 
 menu:
-    main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+    main: 
+        - name: Publications
           url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
+          weight: 1
+        - name: Outreach
+          url: outreach/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Personal website for Leah Albrow"
+    author: Leah Albrow
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -44,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,8 +45,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Leah Albrow
+          subtitle: "I am a first-year graduate student working with Dr. Richard Teague in the Department of Earth, Atmospheric and Planetary Sciences at the Massachusetts Institute of Technology.
+
+My research interests include planetary formation, protoplanetary disks, astrophysical fluid dynamics, and interstellar objects. I am particularly interested in using computational modeling and machine learning methods, combined with interferometric data, to improve our understanding of these phenomena.
+
+Before attending MIT, I completed my Bachelor’s and Honours degrees at the University of Canterbury in New Zealand. In my final year, I worked with Dr. Michele Bannister studying the ejection mechanisms of interstellar objects. During my undergraduate summers, I conducted research at Curtin University, the Australian National University, NASA’s Jet Propulsion Laboratory, and CERN."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
