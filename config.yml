@@ -57,8 +57,8 @@ Before attending MIT, I completed my Bachelor’s and Honours degrees at the Uni
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
+       #     - name: Data
+        #      url: data/
   #          - name: Books
    #           url: books/
     #        - name: Courses
