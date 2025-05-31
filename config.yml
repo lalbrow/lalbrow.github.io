@@ -9,7 +9,6 @@ pagination:
 
 taxonomies:
     tag: tags
-
 menu:
     main: 
         - name: Publications
@@ -51,7 +50,7 @@ params:
 My research interests include planetary formation, protoplanetary disks, astrophysical fluid dynamics, and interstellar objects. I am particularly interested in using computational modeling and machine learning methods, combined with interferometric data, to improve our understanding of these phenomena.
 <br><br>
 Before attending MIT, I completed my Bachelor’s and Honours degrees at the University of Canterbury in New Zealand. In my final year, I worked with Dr. Michele Bannister studying the ejection mechanisms of interstellar objects. During my undergraduate summers, I conducted research at Curtin University, the Australian National University, NASA’s Jet Propulsion Laboratory, and CERN."
-          imageUrl: "telescope_me.jpeg"
+          imageUrl: "static/telescope_me.jpeg"
           imageWidth: 200
           imageHeight: 200
           buttons:
