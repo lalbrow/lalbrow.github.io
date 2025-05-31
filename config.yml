@@ -46,53 +46,49 @@ params:
     profileMode:
           enabled: true
           title: Leah Albrow
-          subtitle: "I am a first-year graduate student working with Dr. Richard Teague in the Department of Earth, Atmospheric and Planetary Sciences at the Massachusetts Institute of Technology.
-
+          subtitle: "I am a first-year graduate student working with [Dr. Richard Teague](https://pfl.mit.edu/) in the Department of Earth, Atmospheric and Planetary Sciences at the Massachusetts Institute of Technology.
+<br><br>
 My research interests include planetary formation, protoplanetary disks, astrophysical fluid dynamics, and interstellar objects. I am particularly interested in using computational modeling and machine learning methods, combined with interferometric data, to improve our understanding of these phenomena.
-
+<br><br>
 Before attending MIT, I completed my Bachelor’s and Honours degrees at the University of Canterbury in New Zealand. In my final year, I worked with Dr. Michele Bannister studying the ejection mechanisms of interstellar objects. During my undergraduate summers, I conducted research at Curtin University, the Australian National University, NASA’s Jet Propulsion Laboratory, and CERN."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageUrl: "telescope_me.jpeg"
+          imageWidth: 200
+          imageHeight: 200
           buttons:
             - name: Papers
               url: papers/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
+  #          - name: Books
+   #           url: books/
+    #        - name: Courses
+     #         url: courses/
+      #      - name: Tags
+       #       url: tags/
+            - name: Outreach
+              url: outreach/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+      #      - name: Blog
+       #       url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: academic_cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:lalbrow@mit.edu
+       # - name: Zoom
+       #   url: https://www.zoom.us/my/igelfeld
+       # - name: Location
+       #   url: location/
+       # - name: Office Hours
+       #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=1DUP5KMAAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/lalbrow
+        - name: orcid
+          url: https://orcid.org/0009-0003-4251-2821
 
     assets:
         disableScrollBarStyle: true
@@ -100,7 +96,7 @@ Before attending MIT, I completed my Bachelor’s and Honours degrees at the Uni
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Leah Albrow"
       icon: favicon.ico
       iconHeight: 18
 
