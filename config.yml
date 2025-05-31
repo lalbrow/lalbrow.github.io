@@ -9,7 +9,6 @@ pagination:
 
 taxonomies:
     tag: tags
-
 menu:
     main: 
         - name: Publications
