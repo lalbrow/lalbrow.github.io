@@ -1,4 +1,4 @@
-baseURL: "https://lalbrow.github.io" 
+baseURL: "https://lalbrow.github.io/" 
 title: Leah Albrow
 theme: PaperMod
  
@@ -66,8 +66,8 @@ Before attending MIT, I completed my Bachelor’s and Honours degrees at the Uni
        #       url: tags/
             - name: Outreach
               url: outreach/
-            - name: Archive
-              url: archive/
+       #     - name: Archive
+        #      url: archive/
       #      - name: Blog
        #       url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
