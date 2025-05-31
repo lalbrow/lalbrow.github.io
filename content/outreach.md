@@ -14,6 +14,6 @@ I  am passionate about teaching and STEM outreach. During my undergraduate studi
 
 #### Public Outreach
 
-I used to lead public tours and observing nights at the [Townsend Teece Telescope](https://www.canterbury.ac.nz/research/research-facilities-and-equipment/townsend-teece-telescope), and I’m now involved with the [Boston chapter of Astronomy on Tap](https://astronomyontap.org/locations/boston-ma/). I also have experience speaking to schools and local astronomy enthusiast groups—feel free to reach out by email!
+I used to lead public tours and observing nights at the [Townsend Teece Telescope](https://www.canterbury.ac.nz/research/research-facilities-and-equipment/townsend-teece-telescope), and I’m now involved with the [Boston chapter of Astronomy on Tap](https://astronomyontap.org/locations/boston-ma/). I've been involved with the [Letters to a Pre-Scientist program](https://prescientist.org/) since moving to the United States, which has been a really fun way to connect with community. I also have experience speaking to schools and local astronomy enthusiast groups - feel free to reach out by email!
 
 ---
