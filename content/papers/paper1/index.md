@@ -40,15 +40,18 @@ We report on the serendipitous discovery of 49 HI-rich galaxies in a 2.3 h Ope
 M Glowacki, L Albrow, T Reynolds, E Elson, E K Mahony, J R Allison, A serendipitous discovery of H i-rich galaxy groups with MeerKAT, Monthly Notices of the Royal Astronomical Society, Volume 529, Issue 4, April 2024, Pages 3469–3483, [https://doi.org/10.1093/mnras/stae684](https://doi.org/10.1093/mnras/stae684)
 
 ```BibTeX
-@article{glowackiSerendipitousDiscoveryHIrich2024,
-  title = {A Serendipitous Discovery of {{HI-rich}} Galaxy Groups with {{MeerKAT}}},
-  author = {Glowacki, M. and Albrow, L. and Reynolds, T. and Elson, E. and Mahony, E. K. and Allison, J. R.},
-  year = {2024},
-  month = mar,
-  journal = {Monthly Notices of the Royal Astronomical Society},
-  eprint = {2403.16807},
-  issn = {13652966},
-  doi = {10.1093/mnras/stae684},
-  copyright = {All rights reserved}
+@article{10.1093/mnras/stae684,
+    author = {Glowacki, M and Albrow, L and Reynolds, T and Elson, E and Mahony, E K and Allison, J R},
+    title = {A serendipitous discovery of H i-rich galaxy groups with MeerKAT},
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {529},
+    number = {4},
+    pages = {3469-3483},
+    year = {2024},
+    month = {03},
+    issn = {0035-8711},
+    doi = {10.1093/mnras/stae684},
+    url = {https://doi.org/10.1093/mnras/stae684},
+    eprint = {https://academic.oup.com/mnras/article-pdf/529/4/3469/57074946/stae684.pdf}
 }
 ```
