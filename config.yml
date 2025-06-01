@@ -20,7 +20,6 @@ menu:
 
 params:
   assets:
-    customCSS: ["css/custom.css"]
     disableScrollBarStyle: true
 
   description: "Personal website for Leah Albrow"
