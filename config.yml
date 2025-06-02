@@ -21,6 +21,7 @@ menu:
 params:
   assets:
     disableScrollBarStyle: true
+    favicon: "disklogo.ico"
 
   description: "Personal website for Leah Albrow"
   author: Leah Albrow
